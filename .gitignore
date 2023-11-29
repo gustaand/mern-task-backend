@@ -1,0 +1,4 @@
+.env
+node_modules
+package-lock.json
+Z-Orden-de-lectura.txt
